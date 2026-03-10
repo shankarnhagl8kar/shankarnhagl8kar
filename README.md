@@ -56,6 +56,13 @@ GitHub best practices
 
 
 
+# Python Learning Journey
+
+I started learning Python programming.
+
+Day 1
+- Hello World program
+
 ---
 
 📫 Connect With Me
