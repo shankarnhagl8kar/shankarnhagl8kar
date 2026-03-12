@@ -20,42 +20,6 @@ Goal: To become a Software Developer / IT Professional
 
 ---
 
-🛠️ Skills (Learning)
-
-C Programming
-
-Basics of Data Structures
-
-Computer Fundamentals
-
-Git & GitHub (Beginner)
-
-
-
----
-
-📂 Projects
-
-🔹 C Programs – Basic programs practiced during college
-
-🔹 Logical Problems – Small logic-building programs
-
-
-(More projects coming soon…)
-
-
----
-
-📚 Currently Learning
-
-Advanced C concepts
-
-Problem-solving techniques
-
-GitHub best practices
-
-
-
 # Python Learning Journey
 
 I started learning Python programming.
