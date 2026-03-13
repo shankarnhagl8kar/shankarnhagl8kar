@@ -83,6 +83,19 @@ The program takes a sentence from the user and performs different string operati
 ## Goal
 Improve my understanding of Python string handling through hands-on practice.
 
+# Day 4 – Python Operators
+
+Today I learned different types of operators in Python.
+
+Topics Covered:
+- Assignment Operator
+- Comparison Operator
+- Logical Operator
+- Membership Operator
+- Bitwise Operator
+
+I also practiced simple programs for each operator.
+
 📫 Connect With Me
 
 GitHub: https://github.com/shivunhaglik8ar
