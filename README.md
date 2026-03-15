@@ -96,6 +96,21 @@ Topics Covered:
 
 I also practiced simple programs for each operator.
 
+
+# Day 05 - Python Learning
+
+Today I learned about Lists in Python.
+
+Topics Covered:
+- Creating Lists
+- Accessing list elements
+- Modifying lists
+- List slicing
+- List functions and methods
+- Nested lists
+
+I practiced some basic examples to understand how lists store multiple values in Python.
+
 📫 Connect With Me
 
 GitHub: https://github.com/shivunhaglik8ar
