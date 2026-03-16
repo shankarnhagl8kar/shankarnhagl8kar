@@ -111,6 +111,41 @@ Topics Covered:
 
 I practiced some basic examples to understand how lists store multiple values in Python.
 
+
+Day 6 – Python Learning
+
+Today I learned about Tuples and Sets in Python.
+
+Tuples
+
+- What is a tuple
+- Accessing tuple elements
+- Tuple operations (concatenation, repetition, membership)
+- Tuple methods: "count()", "index()"
+- Advantages of tuples
+
+Example:
+
+t = (10, 20, 30)
+print(t[0])
+print(t.count(20))
+
+Sets
+
+- What is a set
+- Set operations (union, intersection, difference)
+- Set methods: "add()", "remove()", "pop()", "clear()"
+
+Example:
+
+a = {1, 2, 3}
+b = {3, 4, 5}
+
+print(a | b)   # union
+print(a & b)   # intersection
+
+🚀 Practicing Python daily and sharing my learning journey.
+
 📫 Connect With Me
 
 GitHub: https://github.com/shivunhaglik8ar
