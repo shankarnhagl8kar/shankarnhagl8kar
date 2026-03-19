@@ -146,6 +146,19 @@ print(a & b)   # intersection
 
 🚀 Practicing Python daily and sharing my learning journey.
 
+
+# Day 07 - Python
+
+Learned Dictionaries:
+- Creating dictionary
+- Accessing elements
+- Adding & updating data
+- Removing elements
+- Dictionary methods
+- Characteristics
+
+Practiced examples to understand usage.
+
 📫 Connect With Me
 
 GitHub: https://github.com/shivunhaglik8ar
