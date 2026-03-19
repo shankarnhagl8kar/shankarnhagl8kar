@@ -159,6 +159,14 @@ Learned Dictionaries:
 
 Practiced examples to understand usage.
 
+# Day 08 - python 
+Learned conditional statements 
+- if statement 
+- if else statement 
+- else statement 
+- nested if statement 
+- indentation in python 
+- match case 
 📫 Connect With Me
 
 GitHub: https://github.com/shivunhaglik8ar
