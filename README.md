@@ -112,7 +112,7 @@ Topics Covered:
 I practiced some basic examples to understand how lists store multiple values in Python.
 
 
-Day 6 – Python Learning
+# Day 6 – Python Learning
 
 Today I learned about Tuples and Sets in Python.
 
@@ -167,6 +167,84 @@ Learned conditional statements
 - nested if statement 
 - indentation in python 
 - match case 
+
+#  Day 09 - Python Learning
+
+📌 Topics Covered
+
+🔁 While Loop in Python
+
+A "while" loop is used to execute a block of code repeatedly as long as a condition is true.
+
+🧱 Structure of While Loop
+
+while condition:
+    # code block
+
+⚠️ Avoiding Infinite Loop
+
+An infinite loop occurs when the condition never becomes false.
+
+i = 1
+while i <= 5:
+    print(i)
+    i += 1   # Important to update condition
+
+🔚 Using "break" Statement
+
+Used to exit the loop immediately.
+
+i = 1
+while i <= 5:
+    if i == 3:
+        break
+    print(i)
+    i += 1
+
+⏭️ Using "continue" Statement
+
+Skips the current iteration and continues with the next.
+
+i = 0
+while i < 5:
+    i += 1
+    if i == 3:
+        continue
+    print(i)
+
+👤 Using While Loop for User Input
+
+while True:
+    name = input("Enter your name: ")
+    if name != "":
+        break
+print("Hello", name)
+
+🔄 Nested While Loop
+
+A loop inside another loop.
+
+i = 1
+while i <= 3:
+    j = 1
+    while j <= 2:
+        print("i:", i, "j:", j)
+        j += 1
+    i += 1
+
+📚 Key Learnings
+
+- While loops help in repeated execution of code
+- Proper condition handling is important to avoid infinite loops
+- "break" and "continue" control loop flow
+- Useful for user input validation and repeated tasks
+
+🚀 Progress
+
+Day 09 completed successfully ✔️
+Moving forward with consistency and practice!
+
+---
 📫 Connect With Me
 
 GitHub: https://github.com/shivunhaglik8ar
